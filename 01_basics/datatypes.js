@@ -46,5 +46,12 @@ let assignedId = lastId++;
 // post fix means return the current value of x if x++ and then increments x
 let availableId = 5;
 let assignUserId = ++availableId;
-console.log(assignUserId); 
-console.log(availableId); 
+// console.log(assignUserId); 
+// console.log(availableId); 
+
+
+
+let listOfId = 5;
+let assignEmplyeeId = ++listOfId;
+console.log(assignEmplyeeId); 
+console.log(listOfId);
